@@ -78,11 +78,12 @@ const GitHubUser = ({username}) => {
           <li>
             <strong>Following:</strong> {user.following ? user.following : 0}
           </li>
+          <li>Timothy</li>
             </ul>
         )
     }
     </div>
-
+//Adeola
     
  )
   
